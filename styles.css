@@ -1,0 +1,159 @@
+#Banner{
+
+    width: 100%;
+    max-height: 325px;
+    padding: 0px;
+
+}
+nav {
+    background-color:deepskyblue;
+    width: 100%;
+    
+}
+
+nav ul { 
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    
+}
+nav ul li a{
+    color:black;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+    font-weight:bold;
+    text-size-adjust: large;
+}
+nav ul li a:hover {
+    background-color: #eef1f2
+    select
+}
+h1{
+    padding: 0px;
+    Text-align: center;
+}
+#Home_Paragraph{
+    font-size: x-large;
+    border-style: double;
+    border-color: deepskyblue;
+    background-color: gainsboro;
+    padding-bottom: 15px;
+}
+div > h1 {
+    color:deepskyblue;
+}
+div > h2{
+    color:deepskyblue;
+}
+#Hospitals_locations{
+    font-size: x-large;
+    border-style: double;
+    border-color: deepskyblue;
+    background-color: gainsboro;
+}
+div > p2{
+    color:deepskyblue;
+    font-weight: bold;
+}
+div > p3{
+    color:deepskyblue;
+    font-weight: bold;
+}
+#Ministry_of_Health{
+    width: 100%;
+    border-style: double;
+    border-color: deepskyblue;
+}
+footer{
+    color:deepskyblue;
+    font-weight: bold;
+    border-style: double;
+    border-color: deepskyblue;
+    text-align:center;
+    font-size:x-large;
+    background-color:gainsboro;
+}
+Table, th, td{
+    border: 1px double deepskyblue;
+    width: 60%;
+    text-align:center;
+    margin:auto;
+}
+#Insurance_and_Procedures{
+    background-color: gainsboro;
+    border: double deepskyblue;
+}
+div > h3{
+    color:deepskyblue;
+    font-weight: bold;
+    text-align: center;
+} 
+.Testimonials{
+    display:grid;
+    padding: 0 4px;
+    max-width:100%;
+    max-height:50px;
+}
+.Testimonials > img{
+    width: 100%;
+    height: 500px;
+}
+#Testimonial_Statements > h4{
+    color:deepskyblue;
+    font-weight: bold;
+    text-align: center;
+    border: double deepskyblue;
+    font-size:xx-large;
+}
+#Testtimonial_Statements{
+    font-size: x-large;
+    border-style: double;
+    border-color: deepskyblue;
+    background-color: gainsboro;
+}
+#Registration_Form{
+    border: double deepskyblue;
+    background-color:gainsboro;
+}
+Div > h5{
+    color:deepskyblue;
+    font-weight: bold;
+    text-align: center;
+    font-size:xx-large;
+    font-weight:bold;
+}
+#Thank_you{
+    text-align: center;
+    font-size: 100px;
+    border: double deepskyblue;
+    background-color: gainsboro;
+    border-width: 20px;
+}
+#Thank_you_footer{
+    text-align: center;
+    font-size: 100px;
+    border: double deepskyblue;
+    background-color: gainsboro;
+    border-width: 20px;  
+}
+#Contact_Information{
+    font-weight: bold;
+    font-size:x-large;
+    border: double deepskyblue;
+    background-color: gainsboro;
+}
+#Summary_1{
+    border: double deepskyblue;
+    font-weight:bold;
+    font-size:x-large;
+    background-color: gainsboro;
+}
+div > h7{
+    color:deepskyblue;
+    font-weight: bold;
+    text-align: center;
+    font-size:xx-large;
+    font-weight:bold; 
+    text-align:center;
+}
